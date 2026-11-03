@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project From Zero"
+  short_description: "Learn a project step by step, from stack to code"
+  default_prompt: "Use $project-from-zero to teach me this project from zero, starting with stack basics and building it lesson by lesson in VS Code."
